@@ -40,11 +40,18 @@ markerFolder: ./Harari_People/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Ethiopia/Counties/Harari_People|Harari_People]] 
-- [[../../../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Harari_People.public|Harari_People.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Harari_People.internal|Harari_People.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Harari_People.protect|Harari_People.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Harari_People.private|Harari_People.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Harari_People.personal|Harari_People.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Harari_People.secret|Harari_People.secret]] 
+
+### #is_/same_as :: [Harari_People](/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Harari_People.md) 
+
+### #is_/same_as :: [Harari_People.public](/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Harari_People.public.md) 
+
+### #is_/same_as :: [Harari_People.internal](/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Harari_People.internal.md) 
+
+### #is_/same_as :: [Harari_People.protect](/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Harari_People.protect.md) 
+
+### #is_/same_as :: [Harari_People.private](/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Harari_People.private.md) 
+
+### #is_/same_as :: [Harari_People.personal](/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Harari_People.personal.md) 
+
+### #is_/same_as :: [Harari_People.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Harari_People.secret.md)
 

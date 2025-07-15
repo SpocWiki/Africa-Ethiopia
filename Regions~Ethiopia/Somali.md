@@ -40,11 +40,18 @@ markerFolder: ./Somali/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Ethiopia/Counties/Somali|Somali]] 
-- [[../../../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Somali.public|Somali.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Somali.internal|Somali.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Somali.protect|Somali.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Somali.private|Somali.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Somali.personal|Somali.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Somali.secret|Somali.secret]] 
+
+### #is_/same_as :: [Somali](/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Somali.md) 
+
+### #is_/same_as :: [Somali.public](/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Somali.public.md) 
+
+### #is_/same_as :: [Somali.internal](/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Somali.internal.md) 
+
+### #is_/same_as :: [Somali.protect](/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Somali.protect.md) 
+
+### #is_/same_as :: [Somali.private](/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Somali.private.md) 
+
+### #is_/same_as :: [Somali.personal](/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Somali.personal.md) 
+
+### #is_/same_as :: [Somali.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Somali.secret.md)
 

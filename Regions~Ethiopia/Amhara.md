@@ -40,11 +40,18 @@ markerFolder: ./Amhara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Ethiopia/Counties/Amhara|Amhara]] 
-- [[../../../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Amhara.public|Amhara.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Amhara.internal|Amhara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Amhara.protect|Amhara.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Amhara.private|Amhara.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Amhara.personal|Amhara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Amhara.secret|Amhara.secret]] 
+
+### #is_/same_as :: [Amhara](/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.md) 
+
+### #is_/same_as :: [Amhara.public](/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.public.md) 
+
+### #is_/same_as :: [Amhara.internal](/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.internal.md) 
+
+### #is_/same_as :: [Amhara.protect](/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.protect.md) 
+
+### #is_/same_as :: [Amhara.private](/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.private.md) 
+
+### #is_/same_as :: [Amhara.personal](/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.personal.md) 
+
+### #is_/same_as :: [Amhara.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.secret.md)
 

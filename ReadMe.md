@@ -136,10 +136,4 @@ Capital :: [[Addis_Abeba]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Ethiopia|Ethiopia]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~East/Ethiopia.internal|Ethiopia.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~East/Ethiopia.protect|Ethiopia.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~East/Ethiopia.private|Ethiopia.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~East/Ethiopia.personal|Ethiopia.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~East/Ethiopia.secret|Ethiopia.secret]] 
+

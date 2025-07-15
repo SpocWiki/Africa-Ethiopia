@@ -40,11 +40,18 @@ markerFolder: ./Benshangul-Gumaz/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Ethiopia/Counties/Benshangul-Gumaz|Benshangul-Gumaz]] 
-- [[../../../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Benshangul-Gumaz.public|Benshangul-Gumaz.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Benshangul-Gumaz.internal|Benshangul-Gumaz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Benshangul-Gumaz.protect|Benshangul-Gumaz.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Benshangul-Gumaz.private|Benshangul-Gumaz.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Benshangul-Gumaz.personal|Benshangul-Gumaz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Benshangul-Gumaz.secret|Benshangul-Gumaz.secret]] 
+
+### #is_/same_as :: [Benshangul-Gumaz](/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Benshangul-Gumaz.md) 
+
+### #is_/same_as :: [Benshangul-Gumaz.public](/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Benshangul-Gumaz.public.md) 
+
+### #is_/same_as :: [Benshangul-Gumaz.internal](/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Benshangul-Gumaz.internal.md) 
+
+### #is_/same_as :: [Benshangul-Gumaz.protect](/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Benshangul-Gumaz.protect.md) 
+
+### #is_/same_as :: [Benshangul-Gumaz.private](/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Benshangul-Gumaz.private.md) 
+
+### #is_/same_as :: [Benshangul-Gumaz.personal](/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Benshangul-Gumaz.personal.md) 
+
+### #is_/same_as :: [Benshangul-Gumaz.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Benshangul-Gumaz.secret.md)
 

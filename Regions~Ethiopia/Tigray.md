@@ -40,11 +40,18 @@ markerFolder: ./Tigray/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Ethiopia/Counties/Tigray|Tigray]] 
-- [[../../../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Tigray.public|Tigray.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Tigray.internal|Tigray.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Tigray.protect|Tigray.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Tigray.private|Tigray.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Tigray.personal|Tigray.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Tigray.secret|Tigray.secret]] 
+
+### #is_/same_as :: [Tigray](/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.md) 
+
+### #is_/same_as :: [Tigray.public](/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.public.md) 
+
+### #is_/same_as :: [Tigray.internal](/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.internal.md) 
+
+### #is_/same_as :: [Tigray.protect](/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.protect.md) 
+
+### #is_/same_as :: [Tigray.private](/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.private.md) 
+
+### #is_/same_as :: [Tigray.personal](/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.personal.md) 
+
+### #is_/same_as :: [Tigray.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.secret.md)
 

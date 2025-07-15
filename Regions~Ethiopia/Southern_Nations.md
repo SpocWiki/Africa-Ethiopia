@@ -40,11 +40,18 @@ markerFolder: ./Southern_Nations,_Nationalities_and_Peoples/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples|Southern_Nations,_Nationalities_and_Peoples]] 
-- [[../../../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples.public|Southern_Nations,_Nationalities_and_Peoples.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples.internal|Southern_Nations,_Nationalities_and_Peoples.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples.protect|Southern_Nations,_Nationalities_and_Peoples.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples.private|Southern_Nations,_Nationalities_and_Peoples.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples.personal|Southern_Nations,_Nationalities_and_Peoples.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples.secret|Southern_Nations,_Nationalities_and_Peoples.secret]] 
+
+### #is_/same_as :: [Southern_Nations](/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Southern_Nations.md) 
+
+### #is_/same_as :: [Southern_Nations.public](/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Southern_Nations.public.md) 
+
+### #is_/same_as :: [Southern_Nations.internal](/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Southern_Nations.internal.md) 
+
+### #is_/same_as :: [Southern_Nations.protect](/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Southern_Nations.protect.md) 
+
+### #is_/same_as :: [Southern_Nations.private](/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Southern_Nations.private.md) 
+
+### #is_/same_as :: [Southern_Nations.personal](/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Southern_Nations.personal.md) 
+
+### #is_/same_as :: [Southern_Nations.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Southern_Nations.secret.md)
 

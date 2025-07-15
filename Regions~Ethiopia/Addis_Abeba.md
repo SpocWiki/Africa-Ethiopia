@@ -40,11 +40,18 @@ markerFolder: ./Addis_Ababa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa|Addis_Ababa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.public|Addis_Ababa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.internal|Addis_Ababa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.protect|Addis_Ababa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.private|Addis_Ababa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.personal|Addis_Ababa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.secret|Addis_Ababa.secret]] 
+
+### #is_/same_as :: [Addis_Abeba](/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.md) 
+
+### #is_/same_as :: [Addis_Abeba.public](/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.public.md) 
+
+### #is_/same_as :: [Addis_Abeba.internal](/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.internal.md) 
+
+### #is_/same_as :: [Addis_Abeba.protect](/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.protect.md) 
+
+### #is_/same_as :: [Addis_Abeba.private](/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.private.md) 
+
+### #is_/same_as :: [Addis_Abeba.personal](/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.personal.md) 
+
+### #is_/same_as :: [Addis_Abeba.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.secret.md)
 

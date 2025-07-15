@@ -40,11 +40,18 @@ markerFolder: ./Dire_Dawa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Ethiopia/Counties/Dire_Dawa|Dire_Dawa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Dire_Dawa.public|Dire_Dawa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Dire_Dawa.internal|Dire_Dawa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Dire_Dawa.protect|Dire_Dawa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Dire_Dawa.private|Dire_Dawa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Dire_Dawa.personal|Dire_Dawa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Dire_Dawa.secret|Dire_Dawa.secret]] 
+
+### #is_/same_as :: [Dire_Dawa](/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Dire_Dawa.md) 
+
+### #is_/same_as :: [Dire_Dawa.public](/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Dire_Dawa.public.md) 
+
+### #is_/same_as :: [Dire_Dawa.internal](/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Dire_Dawa.internal.md) 
+
+### #is_/same_as :: [Dire_Dawa.protect](/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Dire_Dawa.protect.md) 
+
+### #is_/same_as :: [Dire_Dawa.private](/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Dire_Dawa.private.md) 
+
+### #is_/same_as :: [Dire_Dawa.personal](/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Dire_Dawa.personal.md) 
+
+### #is_/same_as :: [Dire_Dawa.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Dire_Dawa.secret.md)
 

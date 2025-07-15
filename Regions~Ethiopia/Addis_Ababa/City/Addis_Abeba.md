@@ -1,4 +1,4 @@
-﻿---
+---
 location: [9.05,38.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Ethiopia/City/Addis_Abeba|Addis_Abeba]] 
-- [[../../../../../../_public/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.public|Addis_Abeba.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.internal|Addis_Abeba.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.protect|Addis_Abeba.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.private|Addis_Abeba.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.personal|Addis_Abeba.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.secret|Addis_Abeba.secret]] 
+
+### #is_/same_as :: [Addis_Abeba](/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Ababa/City/Addis_Abeba.md) 
+
+### #is_/same_as :: [Addis_Abeba.public](/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Ababa/City/Addis_Abeba.public.md) 
+
+### #is_/same_as :: [Addis_Abeba.internal](/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Ababa/City/Addis_Abeba.internal.md) 
+
+### #is_/same_as :: [Addis_Abeba.protect](/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Ababa/City/Addis_Abeba.protect.md) 
+
+### #is_/same_as :: [Addis_Abeba.private](/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Ababa/City/Addis_Abeba.private.md) 
+
+### #is_/same_as :: [Addis_Abeba.personal](/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Ababa/City/Addis_Abeba.personal.md) 
+
+### #is_/same_as :: [Addis_Abeba.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Ababa/City/Addis_Abeba.secret.md)
+
