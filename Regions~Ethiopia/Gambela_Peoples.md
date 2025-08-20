@@ -1,30 +1,29 @@
 ---
-location: [ 7.8 , 34 ] 
+location:
+  - 7.8
+  - 34
 type: geo-Region
 title: Gambela_Peoples
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Gambela_Peoples
-
+  - Gambela_Peoples
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Gambela_Peoples

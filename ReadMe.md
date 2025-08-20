@@ -1,41 +1,42 @@
 ---
 location:
-- 9.05
-- 38.7
+  - 9.05
+  - 38.7
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26890
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Ethiopia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Ethiopia
-- Etiopía
-- Éthiopie
-- إثيوبيا
-- 埃塞俄比亚
-- Эфиопия
-- the Federal Democratic Republic of Ethiopia
-- la República Democrática Federal de Etiopía
+  - Ethiopia
+  - Etiopía
+  - Éthiopie
+  - إثيوبيا
+  - 埃塞俄比亚
+  - Эфиопия
+  - the Federal Democratic Republic of Ethiopia
+  - la República Democrática Federal de Etiopía
 Languages:
-- am
-- en-ET
-- om-ET
-- ti-ET
-- so-ET
-- sid
+  - am
+  - en-ET
+  - om-ET
+  - ti-ET
+  - so-ET
+  - sid
 ---
 
 
