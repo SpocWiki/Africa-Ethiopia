@@ -26,15 +26,17 @@ publishDate:
 expiryDate:
 ---
 
-# Tigray
+# [[Tigray]]
 
 ```leaflet
 id: Tigray
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Tigray/
 markerFolder: ./Tigray/
+coordinates: [[Tigray]] 
+markerFile: [[Tigray]] 
 ```
 
 

@@ -26,14 +26,18 @@ publishDate:
 expiryDate:
 ---
 
-# Amhara
+# [[Amhara]]
+
+#is_/same_as :: [[_Standards/WikiData/WD~Amhara_Region,203009]] 
+
+## #has_/map 
 
 ```leaflet
 id: Amhara
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 5 
 maxZoom: 18
-geojsonFolder: ./Amhara/
+geojsonFolder: ./Amhara//
 markerFolder: ./Amhara/
 ```
 
