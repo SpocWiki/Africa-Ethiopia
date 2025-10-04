@@ -39,6 +39,8 @@ minZoom: 5
 maxZoom: 18
 geojsonFolder: ./Amhara//
 markerFolder: ./Amhara/
+coordinates: [[Amhara]] 
+markerFile: [[Amhara]] 
 ```
 
 
