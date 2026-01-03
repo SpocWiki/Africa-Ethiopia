@@ -170,4 +170,19 @@ Wolfram_Language_entity_code: Entity["Concept", "HaileSelassie::87j93"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Haile%20Selassie) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Haile_Selassie_I|Haile_Selassie_I]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Haile_Selassie_I.public|Haile_Selassie_I.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Haile_Selassie_I.internal|Haile_Selassie_I.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Haile_Selassie_I.protect|Haile_Selassie_I.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Haile_Selassie_I.private|Haile_Selassie_I.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Haile_Selassie_I.personal|Haile_Selassie_I.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Haile_Selassie_I.secret|Haile_Selassie_I.secret]] 
 

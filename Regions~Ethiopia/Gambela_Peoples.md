@@ -40,17 +40,17 @@ markerFolder: ./Gambela_Peoples/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gambela_Peoples](/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Gambela_Peoples.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Gambela_Peoples|Gambela_Peoples]] 
 
-### #is_/same_as :: [Gambela_Peoples.public](/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Gambela_Peoples.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Gambela_Peoples.public|Gambela_Peoples.public]] 
 
-### #is_/same_as :: [Gambela_Peoples.internal](/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Gambela_Peoples.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Gambela_Peoples.internal|Gambela_Peoples.internal]] 
 
-### #is_/same_as :: [Gambela_Peoples.protect](/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Gambela_Peoples.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Gambela_Peoples.protect|Gambela_Peoples.protect]] 
 
-### #is_/same_as :: [Gambela_Peoples.private](/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Gambela_Peoples.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Gambela_Peoples.private|Gambela_Peoples.private]] 
 
-### #is_/same_as :: [Gambela_Peoples.personal](/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Gambela_Peoples.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Gambela_Peoples.personal|Gambela_Peoples.personal]] 
 
-### #is_/same_as :: [Gambela_Peoples.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Gambela_Peoples.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Gambela_Peoples.secret|Gambela_Peoples.secret]] 
 

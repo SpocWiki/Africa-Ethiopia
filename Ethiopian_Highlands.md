@@ -27,3 +27,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/ET%20Amhara%20asv2018-
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ethiopian%20Highlands) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Ethiopian_Highlands|Ethiopian_Highlands]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Ethiopian_Highlands.public|Ethiopian_Highlands.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Ethiopian_Highlands.internal|Ethiopian_Highlands.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Ethiopian_Highlands.protect|Ethiopian_Highlands.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Ethiopian_Highlands.private|Ethiopian_Highlands.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Ethiopian_Highlands.personal|Ethiopian_Highlands.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Ethiopian_Highlands.secret|Ethiopian_Highlands.secret]] 
+

@@ -96,3 +96,20 @@ name_in_native_language: ኃይሌ ገብረ ሥላሴ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Haile%20Gebrselassie) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Haile_Gebrselassie|Haile_Gebrselassie]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Haile_Gebrselassie.public|Haile_Gebrselassie.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Haile_Gebrselassie.internal|Haile_Gebrselassie.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Haile_Gebrselassie.protect|Haile_Gebrselassie.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Haile_Gebrselassie.private|Haile_Gebrselassie.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Haile_Gebrselassie.personal|Haile_Gebrselassie.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Haile_Gebrselassie.secret|Haile_Gebrselassie.secret]] 
+

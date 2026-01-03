@@ -29,3 +29,20 @@ has_id_wikidata: Q257724
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ethiopian%20Civil%20War) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Ethiopian_Civil_War|Ethiopian_Civil_War]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Ethiopian_Civil_War.public|Ethiopian_Civil_War.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Ethiopian_Civil_War.internal|Ethiopian_Civil_War.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Ethiopian_Civil_War.protect|Ethiopian_Civil_War.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Ethiopian_Civil_War.private|Ethiopian_Civil_War.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Ethiopian_Civil_War.personal|Ethiopian_Civil_War.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Ethiopian_Civil_War.secret|Ethiopian_Civil_War.secret]] 
+

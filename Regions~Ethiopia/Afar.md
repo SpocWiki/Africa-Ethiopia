@@ -40,17 +40,17 @@ markerFolder: ./Afar/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Afar](/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Afar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Afar|Afar]] 
 
-### #is_/same_as :: [Afar.public](/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Afar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Afar.public|Afar.public]] 
 
-### #is_/same_as :: [Afar.internal](/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Afar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Afar.internal|Afar.internal]] 
 
-### #is_/same_as :: [Afar.protect](/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Afar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Afar.protect|Afar.protect]] 
 
-### #is_/same_as :: [Afar.private](/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Afar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Afar.private|Afar.private]] 
 
-### #is_/same_as :: [Afar.personal](/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Afar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Afar.personal|Afar.personal]] 
 
-### #is_/same_as :: [Afar.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Afar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Afar.secret|Afar.secret]] 
 

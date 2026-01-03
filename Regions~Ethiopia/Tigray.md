@@ -42,17 +42,17 @@ markerFile: [[Tigray]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tigray](/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray|Tigray]] 
 
-### #is_/same_as :: [Tigray.public](/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.public|Tigray.public]] 
 
-### #is_/same_as :: [Tigray.internal](/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.internal|Tigray.internal]] 
 
-### #is_/same_as :: [Tigray.protect](/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.protect|Tigray.protect]] 
 
-### #is_/same_as :: [Tigray.private](/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.private|Tigray.private]] 
 
-### #is_/same_as :: [Tigray.personal](/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.personal|Tigray.personal]] 
 
-### #is_/same_as :: [Tigray.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Tigray.secret|Tigray.secret]] 
 

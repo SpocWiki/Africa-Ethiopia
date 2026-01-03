@@ -43,17 +43,17 @@ markerFolder: ./Addis_Ababa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Addis_Abeba](/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba|Addis_Abeba]] 
 
-### #is_/same_as :: [Addis_Abeba.public](/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.public|Addis_Abeba.public]] 
 
-### #is_/same_as :: [Addis_Abeba.internal](/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.internal|Addis_Abeba.internal]] 
 
-### #is_/same_as :: [Addis_Abeba.protect](/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.protect|Addis_Abeba.protect]] 
 
-### #is_/same_as :: [Addis_Abeba.private](/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.private|Addis_Abeba.private]] 
 
-### #is_/same_as :: [Addis_Abeba.personal](/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.personal|Addis_Abeba.personal]] 
 
-### #is_/same_as :: [Addis_Abeba.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Addis_Abeba.secret|Addis_Abeba.secret]] 
 

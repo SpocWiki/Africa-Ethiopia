@@ -25,3 +25,20 @@ Commons_category: History of Ethiopia
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Ethiopia) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/History_of_Ethiopia|History_of_Ethiopia]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Ethiopia/History_of_Ethiopia.public|History_of_Ethiopia.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/History_of_Ethiopia.internal|History_of_Ethiopia.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/History_of_Ethiopia.protect|History_of_Ethiopia.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Ethiopia/History_of_Ethiopia.private|History_of_Ethiopia.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/History_of_Ethiopia.personal|History_of_Ethiopia.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/History_of_Ethiopia.secret|History_of_Ethiopia.secret]] 
+

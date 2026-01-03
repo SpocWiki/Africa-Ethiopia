@@ -40,17 +40,17 @@ markerFolder: ./Oromiya/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oromiya](/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Oromiya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Oromiya|Oromiya]] 
 
-### #is_/same_as :: [Oromiya.public](/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Oromiya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Oromiya.public|Oromiya.public]] 
 
-### #is_/same_as :: [Oromiya.internal](/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Oromiya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Oromiya.internal|Oromiya.internal]] 
 
-### #is_/same_as :: [Oromiya.protect](/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Oromiya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Oromiya.protect|Oromiya.protect]] 
 
-### #is_/same_as :: [Oromiya.private](/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Oromiya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Oromiya.private|Oromiya.private]] 
 
-### #is_/same_as :: [Oromiya.personal](/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Oromiya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Oromiya.personal|Oromiya.personal]] 
 
-### #is_/same_as :: [Oromiya.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Oromiya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Oromiya.secret|Oromiya.secret]] 
 

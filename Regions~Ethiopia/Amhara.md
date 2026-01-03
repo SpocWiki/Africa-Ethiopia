@@ -46,17 +46,17 @@ markerFile: [[Amhara]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amhara](/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara|Amhara]] 
 
-### #is_/same_as :: [Amhara.public](/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.public|Amhara.public]] 
 
-### #is_/same_as :: [Amhara.internal](/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.internal|Amhara.internal]] 
 
-### #is_/same_as :: [Amhara.protect](/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.protect|Amhara.protect]] 
 
-### #is_/same_as :: [Amhara.private](/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.private|Amhara.private]] 
 
-### #is_/same_as :: [Amhara.personal](/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.personal|Amhara.personal]] 
 
-### #is_/same_as :: [Amhara.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Ethiopia/Regions~Ethiopia/Amhara.secret|Amhara.secret]] 
 
