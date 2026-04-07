@@ -1,10 +1,10 @@
 ---
 aliases:
 has_id_wikidata: Q273595
-described_by_source: "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Ethiopia,14406392]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Ethiopia,115]]"
+described_by_source: "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Ethiopia,14406392|WD~Template_History_of_Ethiopia,14406392]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]"
 Dewey_Decimal_Classification: "963"
 Commons_gallery: History of Ethiopia
 Commons_category: History of Ethiopia

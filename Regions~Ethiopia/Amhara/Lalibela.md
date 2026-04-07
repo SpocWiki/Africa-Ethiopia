@@ -4,11 +4,11 @@ aliases:
   - Lalibäla
 has_id_wikidata: Q207590
 location: [12.031667, 39.041111]
-capital_of: "[[_Standards/WikiData/WD~Zagwe_dynasty,140446]]"
-instance_of: "[[_Standards/WikiData/WD~human_settlement,486972]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Lasta,6494931]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
-country: "[[_Standards/WikiData/WD~Ethiopia,115]]"
+capital_of: "[[_Standards/WikiData/WD~Zagwe_dynasty,140446|WD~Zagwe_dynasty,140446]]"
+instance_of: "[[_Standards/WikiData/WD~human_settlement,486972|WD~human_settlement,486972]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Lasta,6494931|WD~Lasta,6494931]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]"
+country: "[[_Standards/WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]"
 elevation_above_sea_level: 2500
 video: http://commons.wikimedia.org/wiki/Special:FilePath/The%20monolithic%20rock-hewn%20churches%20of%20Lalibela%2C%20Terra%20X%20%28English%20redub%29.webm
 coordinate_location: Point(39.046203 12.035561)

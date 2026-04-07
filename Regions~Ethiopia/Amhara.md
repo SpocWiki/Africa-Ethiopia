@@ -28,7 +28,7 @@ expiryDate:
 
 # [[Amhara]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Amhara_Region,203009]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Amhara_Region,203009|WD~Amhara_Region,203009]] 
 
 ## #has_/map 
 

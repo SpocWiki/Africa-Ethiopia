@@ -38,7 +38,7 @@ maxZoom: 18
 geojsonFolder: ./Addis_Ababa/
 markerFolder: ./Addis_Ababa/
 ```
-#is_/same_as :: [[../../../../../../WikiData/WD~Addis_Ababa,3624]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Addis_Ababa,3624|WD~Addis_Ababa,3624]] 
 
 
 ## Confidential Links & Embeds: 

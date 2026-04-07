@@ -3,15 +3,15 @@ aliases:
   - Ethiopian Highlands
   - Abyssinian Highlands
 has_id_wikidata: Q319288
-part_of: "[[_Standards/WikiData/WD~Great_Rift_Valley,81591]]"
-made_from_material: "[[_Standards/WikiData/WD~volcanic_rock,108689]]"
-highest_point: "[[_Standards/WikiData/WD~Ras_Dashen,275435]]"
+part_of: "[[_Standards/WikiData/WD~Great_Rift_Valley,81591|WD~Great_Rift_Valley,81591]]"
+made_from_material: "[[_Standards/WikiData/WD~volcanic_rock,108689|WD~volcanic_rock,108689]]"
+highest_point: "[[_Standards/WikiData/WD~Ras_Dashen,275435|WD~Ras_Dashen,275435]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~large_igneous_province,792425]]"
-  - "[[_Standards/WikiData/WD~WWF_ecoregion,6617741]]"
-  - "[[_Standards/WikiData/WD~mountain_range,46831]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Ethiopia,115]]"
-country: "[[_Standards/WikiData/WD~Ethiopia,115]]"
+  - "[[_Standards/WikiData/WD~large_igneous_province,792425|WD~large_igneous_province,792425]]"
+  - "[[_Standards/WikiData/WD~WWF_ecoregion,6617741|WD~WWF_ecoregion,6617741]]"
+  - "[[_Standards/WikiData/WD~mountain_range,46831|WD~mountain_range,46831]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]"
+country: "[[_Standards/WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]"
 elevation_above_sea_level: 4550
 coordinate_location: Point(38.166666666 10.0)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ET%20Amhara%20asv2018-02%20img023%20Wunenia.jpg
