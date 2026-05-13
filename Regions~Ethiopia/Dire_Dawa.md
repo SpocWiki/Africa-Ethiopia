@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Dire_Dawa/
 markerFolder: ./Dire_Dawa/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

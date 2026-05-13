@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Gambela_Peoples/
 markerFolder: ./Gambela_Peoples/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

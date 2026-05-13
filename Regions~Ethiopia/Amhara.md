@@ -41,7 +41,7 @@ geojsonFolder: ./Amhara//
 markerFolder: ./Amhara/
 coordinates: [[Amhara]] 
 markerFile: [[Amhara]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

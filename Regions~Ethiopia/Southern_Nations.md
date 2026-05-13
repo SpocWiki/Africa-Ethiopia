@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Southern_Nations,_Nationalities_and_Peoples/
 markerFolder: ./Southern_Nations,_Nationalities_and_Peoples/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

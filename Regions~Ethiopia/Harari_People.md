@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Harari_People/
 markerFolder: ./Harari_People/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
