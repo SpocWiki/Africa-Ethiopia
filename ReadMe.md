@@ -341,7 +341,7 @@ dv_UNTERM_Chinese_Formal: 埃塞俄比亚联邦民主共和国
 dv_UNTERM_French_Formal: la République fédérale démocratique d'Éthiopie
 dv_UNTERM_Russian: Эфиопия
 dv_UNTERM_Russian_Formal: Федеративная Демократическая Республика Эфиопия
-dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Eastern Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -369,7 +369,7 @@ dv_ISO2: ET
 dv_ISO3: ETH
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]'
+  - '[[../../../../../WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia|Ethiopia]]'
   - '[[/_public/Earth/Continent/Africa/Africa~East/Ethiopia.public|Ethiopia.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~East/Ethiopia.internal|Ethiopia.internal]]'
@@ -380,17 +380,17 @@ dv_is_:
 dv_has_name_de: Äthiopien
 dv_Area-Total: 1133380
 dv_Area-Land: 1000000
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: ETH
 dv_Capital: '[[Addis_Abeba]]'
 dv_Alcohol-l: 4
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 38.7
 dv_has_place_latitude: 9.05
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Ethiopia
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]'
+- '[[../../../../../WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia|Ethiopia]]'
 - '[[/_public/Earth/Continent/Africa/Africa~East/Ethiopia.public|Ethiopia.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~East/Ethiopia.internal|Ethiopia.internal]]'
@@ -636,7 +636,7 @@ history_of_topic: '[[/_Standards/WikiData/WD~history_of_Ethiopia,273595|WD~histo
 highest_point: '[[/_Standards/WikiData/WD~Ras_Dashen,275435|WD~Ras_Dashen,275435]]'
 described_by_source:
 - '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
 - '[[/_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
@@ -1066,7 +1066,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Ethiopia/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -1086,7 +1086,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Ethiopia_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1114,7 +1114,7 @@ Capital = `=this.dv_Capital`
 
 ![[Emblem_of_Ethiopia.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Ethiopia.mp3|Anthem-Ethiopia.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Ethiopia.mp3|Anthem-Ethiopia.mp3]]
 
 ![[Flag_of_Ethiopia.svg|350]]
 
